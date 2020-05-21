@@ -1,0 +1,7 @@
+C:\Users\Kefas\Desktop\Excercise02\Excercise02\bin\Debug\Excercise02.exe.config
+C:\Users\Kefas\Desktop\Excercise02\Excercise02\bin\Debug\Excercise02.exe
+C:\Users\Kefas\Desktop\Excercise02\Excercise02\bin\Debug\Excercise02.pdb
+C:\Users\Kefas\Desktop\Excercise02\Excercise02\obj\Debug\Excercise02.csprojAssemblyReference.cache
+C:\Users\Kefas\Desktop\Excercise02\Excercise02\obj\Debug\Excercise02.csproj.CoreCompileInputs.cache
+C:\Users\Kefas\Desktop\Excercise02\Excercise02\obj\Debug\Excercise02.exe
+C:\Users\Kefas\Desktop\Excercise02\Excercise02\obj\Debug\Excercise02.pdb
